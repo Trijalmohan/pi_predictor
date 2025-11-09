@@ -1,3 +1,12 @@
-# Ignore huge π data files
-data/external/pi_1Billion.txt
-data/processed/pi_digits.bin
+# Ignore large data and temporary files
+*.bin
+*.txt
+*.csv
+*.zip
+*.tar
+*.gz
+*.pkl
+*.npy
+*.h5
+data/
+__pycache__/
