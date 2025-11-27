@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Pi Relationship Predictor</h1>
+<h1 align="center">🧠 Pi Predictor</h1>
 
 <p align="center">
   <b>Explore mathematical relationships through the digits of π (Pi) — a fun blend of math, data science, and prediction!</b>
